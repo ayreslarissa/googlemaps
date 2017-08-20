@@ -1,0 +1,48 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "ufam.scm.scmprojetofinal"
+        minSdkVersion 15
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+repositories {
+    mavenCentral()
+}
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+
+
+    compile 'com.android.support:appcompat-v7:22.2.0'
+    compile 'com.facebook.android:facebook-android-sdk:4.7.0'
+    compile 'com.android.support:design:22.2.0'
+    compile 'com.google.android.gms:play-services:7.5.0'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'de.hdodenhof:circleimageview:2.0.0'
+    compile 'com.mcxiaoke.volley:library:1.0.19'
+    compile 'com.google.maps.android:android-maps-utils:0.4+'
+    compile 'com.oguzdev:CircularFloatingActionMenu:1.0.2'
+    compile 'com.getbase:floatingactionbutton:1.10.1'
+    compile 'com.github.ksoichiro:simplealertdialog:1.2.1@aar'
+    compile 'me.drakeet.materialdialog:library:1.2.8'
+    compile('com.github.afollestad.material-dialogs:core:0.8.5.2@aar') {
+        transitive = true
+        exclude module: 'appcompat-v7'
+        exclude module: 'recyclerview-v7'
+        exclude module: 'support-annotations'
+    }
+    compile 'com.github.clans:fab:1.6.2'
+    compile 'com.jakewharton:butterknife:6.1.0'
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/id_assalto" android:title="Assalto"></item>
+        <item android:id="@+id/id_alagamento" android:title="Alagamento"></item>
+        <item android:id="@+id/id_arvore_caida" android:title="Arvore Caída"></item>
+        <item android:id="@+id/id_bueiro" android:title="Bueiro Aberto"></item>
+        <item android:id="@+id/id_buraco" android:title="Buraco"></item>
+        <item android:id="@+id/id_poste" android:title="Poste Suspenso/Caído"></item>
+        <item android:id="@+id/id_outros" android:title="Outros"></item>
+    </group>
+
+</LinearLayout>

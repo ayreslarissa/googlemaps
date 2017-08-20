@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Sinalize!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="facebook_app_id">928216463924626</string>
+    <string name="title_activity_maps">Ocorrências próximas a você</string>
+    <string name="nao_sou_cadastrado">Criar uma conta</string>
+    <string name="login_aplicativo">Entrar</string>
+    <string name="title_activity_login_app">Fazer Login</string>
+    <string name="nome_cadastro_app">Nome</string>
+    <string name="email_cadastro_app">Email</string>
+    <string name="cadastro">Cadastrar</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="prompt_password_confirm">Confirme sua senha</string>
+    <string name="action_sign_in">Entrar ou Cadastrar-se</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">Endereço de email inválido</string>
+    <string name="error_invalid_password">Senha muito curta</string>
+    <string name="error_incorrect_password">Senha incorreta</string>
+    <string name="error_field_required">Este campo é obrigatório</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_perfil_navigation_drawer">Perfil</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_cadastro">Cadastre-se!</string>
+    <string name="title_activity_login_fb">Login com o Facebook</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps2">Ocorrências próximas a você</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string-array name="items">Alagamento</string-array>
+    <string name="title_activity_comentarios">Comentários</string>
+    <string name="comentarios">Insira seu comentário no campo abaixo:</string>
+    <string name="labelcoment">Comentários</string>
+    <string name="labelexit">Sair da Aplicação</string>
+</resources>
