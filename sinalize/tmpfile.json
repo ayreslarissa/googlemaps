@@ -1,0 +1,629 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "310",
+               "short_name" : "310",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Santa Rita",
+               "short_name" : "R. Santa Rita",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santa Luzia",
+               "short_name" : "Santa Luzia",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Manaus",
+               "short_name" : "Manaus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manaus",
+               "short_name" : "Manaus",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Amazonas",
+               "short_name" : "AM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "69074-470",
+               "short_name" : "69074-470",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Santa Rita, 310 - Santa Luzia, Manaus - AM, 69074-470, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.1411091,
+               "lng" : -60.0044184
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.139760119708498,
+                  "lng" : -60.0030694197085
+               },
+               "southwest" : {
+                  "lat" : -3.142458080291502,
+                  "lng" : -60.00576738029151
+               }
+            }
+         },
+         "place_id" : "ChIJBfe2P58FbJIRu16pLD-kPv0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Luzia",
+               "short_name" : "Santa Luzia",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Manaus",
+               "short_name" : "Manaus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manaus",
+               "short_name" : "Manaus",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Amazonas",
+               "short_name" : "AM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Luzia, Manaus - AM, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.1364976,
+                  "lng" : -60.0017443
+               },
+               "southwest" : {
+                  "lat" : -3.1429479,
+                  "lng" : -60.0082202
+               }
+            },
+            "location" : {
+               "lat" : -3.1405003,
+               "lng" : -60.00499079999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.1364976,
+                  "lng" : -60.0017443
+               },
+               "southwest" : {
+                  "lat" : -3.1429479,
+                  "lng" : -60.0082202
+               }
+            }
+         },
+         "place_id" : "ChIJq1itpJ8FbJIRrPmU_fjF89U",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manaus",
+               "short_name" : "Manaus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manaus",
+               "short_name" : "Manaus",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Amazonas",
+               "short_name" : "AM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manaus, AM, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -2.9269379,
+                  "lng" : -59.81864899999999
+               },
+               "southwest" : {
+                  "lat" : -3.1623862,
+                  "lng" : -60.115559
+               }
+            },
+            "location" : {
+               "lat" : -3.1190275,
+               "lng" : -60.0217314
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -2.9269379,
+                  "lng" : -59.81864899999999
+               },
+               "southwest" : {
+                  "lat" : -3.1623862,
+                  "lng" : -60.115559
+               }
+            }
+         },
+         "place_id" : "ChIJt0d2s8gbbJIRzKll959cSCs",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "69074-521",
+               "short_name" : "69074-521",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Santa Luzia",
+               "short_name" : "Santa Luzia",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Manaus",
+               "short_name" : "Manaus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manaus",
+               "short_name" : "Manaus",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Amazonas",
+               "short_name" : "AM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Luzia, Manaus - AM, 69074-521, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.139883,
+                  "lng" : -60.002823
+               },
+               "southwest" : {
+                  "lat" : -3.1432226,
+                  "lng" : -60.0042681
+               }
+            },
+            "location" : {
+               "lat" : -3.1414709,
+               "lng" : -60.0030933
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.139883,
+                  "lng" : -60.00219656970849
+               },
+               "southwest" : {
+                  "lat" : -3.1432226,
+                  "lng" : -60.0048945302915
+               }
+            }
+         },
+         "place_id" : "ChIJiV2wwaEFbJIRJN7KdAhExxc",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "69074-390",
+               "short_name" : "69074-390",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Santa Luzia",
+               "short_name" : "Santa Luzia",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Manaus",
+               "short_name" : "Manaus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manaus",
+               "short_name" : "Manaus",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Amazonas",
+               "short_name" : "AM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Luzia, Manaus - AM, 69074-390, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.1387848,
+                  "lng" : -60.002823
+               },
+               "southwest" : {
+                  "lat" : -3.1432226,
+                  "lng" : -60.0042681
+               }
+            },
+            "location" : {
+               "lat" : -3.1406043,
+               "lng" : -60.0040064
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.1387848,
+                  "lng" : -60.00219656970849
+               },
+               "southwest" : {
+                  "lat" : -3.1432226,
+                  "lng" : -60.0048945302915
+               }
+            }
+         },
+         "place_id" : "ChIJoczsS58FbJIRTeUvRFJZxA8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "69074-470",
+               "short_name" : "69074-470",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Santa Luzia",
+               "short_name" : "Santa Luzia",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Manaus",
+               "short_name" : "Manaus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manaus",
+               "short_name" : "Manaus",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Amazonas",
+               "short_name" : "AM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Luzia, Manaus - AM, 69074-470, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.1388761,
+                  "lng" : -60.002823
+               },
+               "southwest" : {
+                  "lat" : -3.1421246,
+                  "lng" : -60.0071585
+               }
+            },
+            "location" : {
+               "lat" : -3.1403552,
+               "lng" : -60.00621849999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.1388761,
+                  "lng" : -60.002823
+               },
+               "southwest" : {
+                  "lat" : -3.1421246,
+                  "lng" : -60.0071585
+               }
+            }
+         },
+         "place_id" : "ChIJ6_EBQJ8FbJIR4J9sUMnOsb4",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "69074-640",
+               "short_name" : "69074-640",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Morro da Liberdade",
+               "short_name" : "Morro da Liberdade",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Manaus",
+               "short_name" : "Manaus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manaus",
+               "short_name" : "Manaus",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Amazonas",
+               "short_name" : "AM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Morro da Liberdade, Manaus - AM, 69074-640, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.0073659,
+                  "lng" : -60.0013779
+               },
+               "southwest" : {
+                  "lat" : -3.1432226,
+                  "lng" : -60.00860349999999
+               }
+            },
+            "location" : {
+               "lat" : -3.1409195,
+               "lng" : -60.00170860000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.1387392,
+                  "lng" : -60.0013779
+               },
+               "southwest" : {
+                  "lat" : -3.1432226,
+                  "lng" : -60.0042681
+               }
+            }
+         },
+         "place_id" : "ChIJOWAYu5gFbJIRTDnGrrUzlzw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "69070",
+               "short_name" : "69070",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Manaus",
+               "short_name" : "Manaus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manaus",
+               "short_name" : "Manaus",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Amazonas",
+               "short_name" : "AM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manaus - State of Amazonas, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.1353434,
+                  "lng" : -60.00096509999999
+               },
+               "southwest" : {
+                  "lat" : -3.1519282,
+                  "lng" : -60.0170792
+               }
+            },
+            "location" : {
+               "lat" : -3.1443664,
+               "lng" : -60.0057133
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.1353434,
+                  "lng" : -60.00096509999999
+               },
+               "southwest" : {
+                  "lat" : -3.1519282,
+                  "lng" : -60.0170792
+               }
+            }
+         },
+         "place_id" : "ChIJNxwJ3JsFbJIRTIRk6ToGo6s",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manaus",
+               "short_name" : "Manaus",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Amazonas",
+               "short_name" : "AM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manaus - State of Amazonas, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.924307,
+                  "lng" : -59.1600463
+               },
+               "southwest" : {
+                  "lat" : -3.222211,
+                  "lng" : -60.8027208
+               }
+            },
+            "location" : {
+               "lat" : -3.1189228,
+               "lng" : -60.0215183
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.924307,
+                  "lng" : -59.1600463
+               },
+               "southwest" : {
+                  "lat" : -3.222211,
+                  "lng" : -60.8027208
+               }
+            }
+         },
+         "place_id" : "ChIJW6jl1mcFbJIR3OKFSQxz2_A",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Amazonas",
+               "short_name" : "AM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Amazonas, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 2.246628,
+                  "lng" : -56.1018568
+               },
+               "southwest" : {
+                  "lat" : -9.8180491,
+                  "lng" : -73.80155329999999
+               }
+            },
+            "location" : {
+               "lat" : -3.4168427,
+               "lng" : -65.8560646
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.246628,
+                  "lng" : -56.1018568
+               },
+               "southwest" : {
+                  "lat" : -9.8180491,
+                  "lng" : -73.80155329999999
+               }
+            }
+         },
+         "place_id" : "ChIJ0W4di1w_GJIR-i48a_ZqbRc",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -29.3449095
+               },
+               "southwest" : {
+                  "lat" : -33.7509909,
+                  "lng" : -73.98281709999999
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -32.3781865
+               },
+               "southwest" : {
+                  "lat" : -33.7509909,
+                  "lng" : -73.98281709999999
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
